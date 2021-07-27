@@ -1,40 +1,36 @@
-## Plantilla Hotel / Programación Web 2019
+## Hotel Template / Web Development 2020
 
-### Requerimientos de Instalación
+### Installation requirements
 
 * NodeJS
 * Gulp CLI
 
-### Configuración del entorno
+### environment configuration
 
-Luego de clonar el repositorio ejecute los siguientes comandos para iniciar el entorno local:
+After cloning the repository, run the following commands to start the local environment
 
-1. Instalar las dependencias  del proyecto
+1. Install project dependencies
 
 ```
 npm install
 ```
 
-2. Ejecutar el entorno localmente
+2. Run the environment locally
 
 ```
 gulp
 ```
 
-### Ejercicios a realizar
+### Some changes were made to the original template, such as:
 
-- [x] Agregar un color de fondo a la barra de navegación
-- [x] Colocar el link de "Booking" después del link de "Rooms" en la navegación principal
-- [x] Cambiar el color principal del sitio de azul a naranja
-- [x] Colocar las "Opening Hours" del pie de página en la última columna
-- [ ] Corregir los errores en las sub-páginas del sitio que no cargan
 
-- [x] Mover la opción de "Pool & Spa" debajo del "Breakfast Buffet" en la página principal
-- [x] Eliminar la sección de "Conference Centre" en la página principal
-- [X] Mover la sección de "instagram" arriba de "Restaurant & Bar" en la página principal
 
-- [x] Eliminar el bloque de "instagram" de la página de "Rooms"
+- [x] Color changes to the navigation bar
+- [x] Changes in link positions in main navigation
+- [x] Change main color
+- [x] Change position of "Opening hours"
+- [x] Fixed some subpages that did not load
+- [x] Move "Pool & Spa", "Instagram", "Restaurant & Bar" and "Breackfast Buffet" sections on the main page
 - [x] Colocar el tab de "Drinks" antes del de "Dessert" en la página de "Dining & Bar"
-- [x] Cambiar el color de fondo del formulario la página de "Booking" por uno más oscuro
-- [x] Eliminar la paginación de las entradas del blog en la página de "Blog"
-- [ ] Agregar un campo de "Your Phone" a la página de "Contact"
+- [x] Change the background color of the form in booking page
+- [x] Various position changes and section edits on different pages
